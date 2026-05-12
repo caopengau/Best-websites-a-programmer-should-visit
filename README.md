@@ -240,6 +240,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hotkey Cheatsheet](https://hotkeycheatsheet.com) : A comprehensive hotkey cheatsheet for popular software and applications
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
+- [ReceiptClaimer](https://receiptclaimer.com.au) : AI-powered tax deduction tracking and audit reconciliation platform for Australian sole traders and landlords. Automate expense tracking and maximize tax returns with OCR and AI categorization.
 - [Pyrexp](https://pythonium.net/regex) : Online regex tester and visualizer for Python.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
